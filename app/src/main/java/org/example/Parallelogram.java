@@ -1,3 +1,5 @@
+package org.example;
+
 public class Parallelogram extends Shape implements Polygon {
     private double base, side, height;
 
