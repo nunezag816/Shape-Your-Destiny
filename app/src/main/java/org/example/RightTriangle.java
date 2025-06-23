@@ -1,3 +1,5 @@
+package org.example;
+
 public class RightTriangle extends Shape {
     protected double leg1, leg2;
     public RightTriangle(double leg1, double leg2) {
