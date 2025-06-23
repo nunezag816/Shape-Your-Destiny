@@ -1,3 +1,5 @@
+package org.example;
+
 public class Rectangle extends Shape {
     protected double length, width;
     public Rectangle(double length, double width) {
